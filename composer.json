@@ -1,0 +1,11 @@
+{
+    "name": "yogin/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "210danila",
+            "email": "210danila@gmail.com"
+        }
+    ],
+    "require": {}
+}
